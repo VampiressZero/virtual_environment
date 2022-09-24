@@ -1,0 +1,4 @@
+name: o-build
+channels:
+  - defaults
+prefix: C:\Users\Vampi\anaconda3\envs\o-build
